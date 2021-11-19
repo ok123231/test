@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2>테스트 파일</h2>
+<h2>GIT Test Project</h2>
 <hr>
 </body>
 </html>
